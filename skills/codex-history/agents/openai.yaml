@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex History"
+  short_description: "Find, summarize, pick, and resume local Codex CLI sessions."
+  default_prompt: "codex-history"
